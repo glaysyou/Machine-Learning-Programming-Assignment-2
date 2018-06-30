@@ -6,3 +6,4 @@
   可以發現在15以前準確度是跟其值呈正相關，但超過後反而下降。
 3.layer:
   一層100個神經元，epochs為 10,但跟據這個實驗會發現，雖然層數多少會影響準確度，但影響並不是太大。
+![image](https://github.com/glaysyou/Machine-Learning-Programming-Assignment-2/blob/master/D.jpg)
